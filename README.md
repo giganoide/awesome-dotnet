@@ -6,8 +6,7 @@
 [![Stars](https://badgen.net/github/stars/natemcmaster/CommandLineUtils)](natemcmaster/CommandLineUtils/)
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
-* [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) [![Stars](https://badgen.net/github/stars/natemcmaster/CommandLineUtils)]  [![latest commit](https://badgen.net/github/last-commit/natemcmaster/CommandLineUtils)] - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
-/github/last-commit/micromatch/micromatch
+* [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) [![Stars](https://badgen.net/github/stars/natemcmaster/CommandLineUtils)]  [![latest commit](https://badgen.net/github/last-commit/natemcmaster/CommandLineUtils)] [![license](https://badgen.net/github/license/natemcmaster/CommandLineUtils)] - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
