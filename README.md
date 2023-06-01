@@ -4,7 +4,7 @@
 [![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Stars](https://img.shields.io/github/stars/giganoide/SolutionsDesign/Algorithmia?style=social)]
-[![GitHub stars](https://badgen.net/github/stars/giganoide/Strapdown.js)](https://GitHub.com/giganoide/StrapDown.js/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
